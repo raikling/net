@@ -1,0 +1,72 @@
+*This project has been created as part of the 42 curriculum by <>.*
+
+## Description
+
+**NetPractice** is a networking project that helps you understand how computer networks work in practice.  
+No code is needed, you solve networking problems by configuring IP addresses, subnet masks, and routes so that different machines can communicate with each other.
+
+Each level shows a small network made of computers, routers, and switches. Your goal is to fix the network by filling in the correct values and making sure everything can talk to everything else as expected.
+
+This project is especially useful if you are new to networking, as it focuses on building intuition and understanding rather than memorizing rules.
+
+## Instructions
+
+### Running the Training Interface
+
+• First, download the file attached to the project’s page.
+• Then, extract the files in whatever folder you want.
+• Open the project by launching the `index.html` file in your web browser.
+• You will see several levels, each with a network diagram to complete.
+
+### Solving Levels and Exporting Configurations
+
+- For each level, fill in the missing information (IP address, subnet mask, gateway, etc.).
+- Use the interface to check whether your configuration is correct.
+- Once a level is validated, use the "Export" button to generate a configuration file.
+- Do this for every level.
+
+### Submission Requirements
+
+- You must export "exactly 10 configuration files", one per level.
+- All 10 files **must be placed at the root of the repository**.
+- Each file must come from a successfully validated level.
+
+## Networking Concepts Covered
+
+While working on this project, you will practice and understand:
+
+- TCP/IP addressing
+- IPv4 addresses and how they are structured
+- Subnet masks and CIDR notation
+- Network and broadcast addresses
+- Default gateways and their role
+- Routers and how they forward traffic
+- Switches and basic layer 2 communication
+- OSI model layers
+- Communication between devices on the same network and across different networks
+
+## Resources
+
+### Learning Resources
+
+The following resources were used to learn and understand the concepts needed for this project:
+
+- **NetPractice Guidelines (Medium)**  
+  https://toufa7.medium.com/netpractice-guidelines-6341b8309f38  
+  A clear guide that explains how to approach each level and avoid common mistakes.
+
+- **YouTube Playlist – Networking Fundamentals**  
+  https://youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi  
+  Helpful for understanding IP addressing, subnetting, and basic networking ideas.
+
+- **YouTube Playlist – Practical Networking**  
+  https://youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE  
+  Visual explanations that make networking concepts easier to grasp.
+
+### Use of AI
+
+AI tools were used as a learning companion, not to directly solve the levels.  
+They were mainly used to:
+- Get simpler explanations of networking concepts (example: public/private address with internet involved)
+- Understand why a configuration works or does not work
+
